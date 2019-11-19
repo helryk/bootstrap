@@ -3,7 +3,7 @@
 # Bootstrap
 
 
-hola soy jose pero tu puedes llamarme esta noche 
+Hola soy Jose pero tu puedes llamarme esta noche 
 
 
 
